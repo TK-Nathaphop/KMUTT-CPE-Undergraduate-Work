@@ -1,6 +1,6 @@
 # Description
 
-All KMUTT project and work while I am undergraduate student.
+All project and work while I was an undergraduate student in CPE KMUTT.
 
 # Subject list
 
