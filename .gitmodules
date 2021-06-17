@@ -1,4 +1,8 @@
 [submodule "KMUTT-CPE100-Work"]
-	path = KMUTT-CPE100-Work
+	path = CPE100
 	url = https://github.com/TK-Nathaphop/KMUTT-CPE100-Work.git
+	branch = master
+[submodule "KMUTT-CPE111-Work"]
+	path = CPE111
+	url = https://github.com/TK-Nathaphop/KMUTT-CPE111-Work.git
 	branch = master
