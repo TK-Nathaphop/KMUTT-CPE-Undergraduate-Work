@@ -10,3 +10,7 @@
 	path = CPE314/Project
 	url = https://github.com/TK-Nathaphop/KMUTT-CPE314-MQTT-Network-Project.git
 	branch = master
+[submodule "CPE327/Project"]
+	path = CPE327/Project
+	url = https://github.com/TK-Nathaphop/KMUTT-CPE327-RSquare
+	branch = master
