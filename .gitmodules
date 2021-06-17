@@ -18,3 +18,7 @@
 	path = CPE231/Project
 	url = https://github.com/TK-Nathaphop/KMUTT-CPE231-Shoplada
 	branch = master
+[submodule "CPE351"]
+	path = CPE351
+	url = https://github.com/TK-Nathaphop/KMUTT-CPE351-Work.git
+	branch = master
