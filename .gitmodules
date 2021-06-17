@@ -26,3 +26,19 @@
 	path = CPE343
 	url = https://github.com/NatthawatTungruethaipak/ONLINE-AUCTION-SYSTEM--eBuy
 	branch = master
+[submodule "SeniorProject/Report"]
+	path = SeniorProject/Report
+	url = https://github.com/kmutt-cpe/Senior-report-project.git
+	branch = master
+[submodule "SeniorProject/KM-Frontend"]
+	path = SeniorProject/KM-Frontend
+	url = https://github.com/kmutt-cpe/Chatbot-KM-frontend.git
+	branch = master
+[submodule "SeniorProject/KM-Backend"]
+	path = SeniorProject/KM-Backend
+	url = https://github.com/kmutt-cpe/Chatbot-Backend-API.git
+	branch = master
+[submodule "SeniorProject/Prediction-Model"]
+	path = SeniorProject/Prediction-Model
+	url = https://github.com/kmutt-cpe/Prediction-Model
+	branch = master
