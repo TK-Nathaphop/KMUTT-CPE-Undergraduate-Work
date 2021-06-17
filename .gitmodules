@@ -22,3 +22,7 @@
 	path = CPE351
 	url = https://github.com/TK-Nathaphop/KMUTT-CPE351-Work.git
 	branch = master
+[submodule "CPE343"]
+	path = CPE343
+	url = https://github.com/NatthawatTungruethaipak/ONLINE-AUCTION-SYSTEM--eBuy
+	branch = master
